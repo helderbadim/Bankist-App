@@ -2,7 +2,7 @@
 
 A front-end–only banking interface to practice **modern JavaScript** concepts. It simulates basic banking features like login, transactions, transfers, and account closure using **in-memory data only**. Built purely with **HTML, CSS, and vanilla JavaScript**, no backend or persistence.
 
-> ⚠️ For educational purposes only — do **not** use real credentials.
+> ⚠️ Do **not** use real credentials.
 
 ---
 
@@ -155,14 +155,6 @@ const account = {
 ├── style.css          # Styling
 └── script.js          # App logic (utilities + event handlers)
 ```
-
----
-
-## 📜 License
-
-**MIT License** — Free to learn and modify.
-
-> ⚠️ If you fork or extend with real user data or backend, remove all demo PINs and sanitize history.
 
 ---
 
