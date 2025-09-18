@@ -70,7 +70,9 @@ OwnerUsernamePINCurrencyLocaleHélder Costahc1111EURpt-PTAngélica Silvaas2222US
 🛠️ Installation
 ----------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/your-username/bankist.git  cd bankist   `
+Plain
+
+*  git clone https://github.com/your-username/bankist.git  cd bankist   `
 
 Then simply:
 
